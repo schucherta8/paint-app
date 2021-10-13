@@ -1,0 +1,4 @@
+/home/aschuchert/cpp_projects/FinalProject/bin/CMakeFiles/rebuild_cache.dir
+/home/aschuchert/cpp_projects/FinalProject/bin/CMakeFiles/edit_cache.dir
+/home/aschuchert/cpp_projects/FinalProject/bin/CMakeFiles/app_test.dir
+/home/aschuchert/cpp_projects/FinalProject/bin/CMakeFiles/app.dir
